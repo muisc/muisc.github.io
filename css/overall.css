@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+html{
+  height: 100%;
+}
+
+
+h1{
+  font-size: 70px;
+}
+
+h2{
+  font-size: 40px;
+}
+
+
+body{
+  background-image: url("image/homepage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "indie Flower";
+}
