@@ -1,15 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
-html{
-  height: 100%;
-}
-section{
-  padding-top: 200px;
-  text-align: center;
-  text-shadow: 3px 3px 2px rgba(150, 150, 150, 1);
-  color: white;
-}
-
 h1{
   font-size: 70px;
 }
@@ -18,16 +8,6 @@ h2{
   font-size: 40px;
 }
 
-.mainbutton{
-  min-width: 40px;
-  min-height: 40px;
-  font-size: 40px;
-  border-radius: 20px;
-}
-
 body{
-  background-image: url("image/homepage.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  font-family: "indie Flower";
+  background: white;
 }
