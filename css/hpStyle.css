@@ -23,4 +23,5 @@ section{
 
 body{
     background-image: url("image/homepage.jpg");
+    background-size: cover;
 }
