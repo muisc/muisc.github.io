@@ -20,3 +20,7 @@ section{
 .navbar-nav{
   text-align: center;
 }
+
+body{
+    background-image: url("image/homepage.jpg");
+}
