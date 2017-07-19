@@ -13,9 +13,12 @@ h2{
 }
 
 h3{
-  font-size: 19px;
+  padding-bottom: 10px;
   text-align: left;
+  font-size: 28px;
 }
+
+
 
 .row{
   padding-bottom: 70px;
@@ -52,11 +55,7 @@ footer{
   text-align: center;
 }
 
-.socialmedia{
-  padding-top: 100px;
-  padding-left: 50px;
 
-}
 
 aside{
   margin-left: 800px;
