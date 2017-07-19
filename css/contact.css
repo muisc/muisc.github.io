@@ -27,8 +27,13 @@ h3{
   padding-top: 20px;
 
 }
-.col-sm-3{
-  float: right;
+span{
+  padding-left: 40px;
+}
+
+a{
+
+  padding-left: 35px;
 }
 
 section{
