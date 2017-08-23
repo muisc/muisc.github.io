@@ -1,19 +1,17 @@
-.row{
-  padding-left: 30px;
-  padding-right: 30px;
+.row {
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
-h1{
-  padding-left: 20px;
-  padding-bottom: 30px;
-  color: white;
-  font-size: 70px;
-  text-shadow: 3px 3px 2px rgba(150, 150, 150, 1);
+h1 {
+    padding-left: 20px;
+    padding-bottom: 30px;
+    color: white;
+    font-size: 70px;
+    text-shadow: 3px 3px 2px rgba(150, 150, 150, 1);
 }
 
-
-
-body{
+body {
     background-image: url("image/homepage.jpg");
     background-repeat: repeat;
 }
