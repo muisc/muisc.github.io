@@ -18,3 +18,14 @@ body {
     background-size: cover;
     font-family: "indie Flower";
 }
+
+.footer {
+    height: 41px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #fff8f2;
+    text-align: center;
+}
