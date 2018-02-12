@@ -2,69 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a55f5142-c24e-4c50-b943-006c8cf0c75e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Portfolio.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/archive/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/contact/index.html" afterPath="$PROJECT_DIR$/archive/contact/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/contact.css" afterPath="$PROJECT_DIR$/archive/css/contact.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/gallery.css" afterPath="$PROJECT_DIR$/archive/css/gallery.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/hpStyle.css" afterPath="$PROJECT_DIR$/archive/css/hpStyle.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/image/FB-f-Logo__blue_114.png" afterPath="$PROJECT_DIR$/archive/css/image/FB-f-Logo__blue_114.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/image/IG_Glyph_Fill.psd" afterPath="$PROJECT_DIR$/archive/css/image/IG_Glyph_Fill.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/image/IG_Glyph_Fill3.png" afterPath="$PROJECT_DIR$/archive/css/image/IG_Glyph_Fill3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/image/glyph-logo_may2016.png" afterPath="$PROJECT_DIR$/archive/css/image/glyph-logo_may2016.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/image/homepage.jpg" afterPath="$PROJECT_DIR$/archive/css/image/homepage.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/image/homepage_transparent.png" afterPath="$PROJECT_DIR$/archive/css/image/homepage_transparent.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/overall.css" afterPath="$PROJECT_DIR$/archive/css/overall.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/archive/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/HELP-US-OUT.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/animated.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/core.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/fixed-width.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/icons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/larger.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/larger.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/list.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/path.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/path.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/rotated-flipped.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/stacked.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/stacked.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_core.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_fixed-width.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_list.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_list.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_mixins.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_path.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_stacked.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/archive/font-awesome-4.7.0/scss/font-awesome.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gallery/index.html" afterPath="$PROJECT_DIR$/archive/gallery/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pictures/13403113_10209710260499995_6817717305259813788_o.jpg" afterPath="$PROJECT_DIR$/archive/pictures/13403113_10209710260499995_6817717305259813788_o.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pictures/13691059_10209951611093609_4820623629489942189_o.jpg" afterPath="$PROJECT_DIR$/archive/pictures/13691059_10209951611093609_4820623629489942189_o.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pictures/13909400_10210219689675406_6314536558166371467_o.jpg" afterPath="$PROJECT_DIR$/archive/pictures/13909400_10210219689675406_6314536558166371467_o.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pictures/17264385_10212180005632581_721442697611477783_n.jpg" afterPath="$PROJECT_DIR$/archive/pictures/17264385_10212180005632581_721442697611477783_n.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pictures/18880196_1300138456700560_5329841202727911358_o.jpg" afterPath="$PROJECT_DIR$/archive/pictures/18880196_1300138456700560_5329841202727911358_o.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pictures/18891729_1300137303367342_60602344435397082_o.jpg" afterPath="$PROJECT_DIR$/archive/pictures/18891729_1300137303367342_60602344435397082_o.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pictures/20031606_1342901135757625_28376068609110557_n.jpg" afterPath="$PROJECT_DIR$/archive/pictures/20031606_1342901135757625_28376068609110557_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Black.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/about-history.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/about-philosophy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/about-visual.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/about-winners.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/contact-visual.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/introduction-visual.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/work-alex-nowak.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/work-metiew-smith.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/work-victory.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/base/_body-element.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/base/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/base/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/base/_selection-colors.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/base/_vars.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Light.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/fonts/Montserrat-Regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/layouts/_grid.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/main.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/modules/_about.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/modules/_contact.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/modules/_device-notification.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/modules/_header.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/modules/_hire.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/modules/_intro.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/modules/_outer-nav.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/modules/_section.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/modules/_side-nav.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/modules/_work.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/functions-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/hammer-2.0.8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/vendor/jquery-2.2.4.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,8 +65,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/archive/contact/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="89" column="28" lean-forward="false" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+            <state relative-caret-position="629">
+              <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -177,6 +163,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shalitha Weerakoon Karunatilleke &lt;shalithakaru@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -241,6 +232,11 @@
               <item name="muisc.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="muisc.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="archive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="muisc.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="muisc.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -373,12 +369,20 @@
       <option name="presentableId" value="Default" />
       <updated>1503501183611</updated>
       <workItem from="1503501185148" duration="2874000" />
-      <workItem from="1518468974512" duration="102000" />
+      <workItem from="1518468974512" duration="889000" />
     </task>
+    <task id="LOCAL-00001" summary="New Design">
+      <created>1518469156678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518469156679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2976000" />
+    <option name="totallyTimeSpent" value="3763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -417,6 +421,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Design" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Design" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -579,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/archive/contact/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="89" column="28" lean-forward="false" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+        <state relative-caret-position="629">
+          <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
           <folding />
         </state>
       </provider>
