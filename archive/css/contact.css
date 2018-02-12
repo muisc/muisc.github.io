@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+
+h3 {
+    padding-bottom: 10px;
+    text-align: left;
+    font-size: 28px;
+}
+
+.row {
+    padding-bottom: 70px;
+
+}
+
+.col-md-6 {
+    padding-right: 80px;
+    padding-top: 20px;
+
+}
+
+span {
+    padding-left: 70px;
+}
+
+section {
+
+}
+
+section li {
+    font-size: 19px;
+}
+
+footer li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    list-style-type: none;
+}
+
+footer {
+    text-align: center;
+}
+
+aside {
+    margin-left: 800px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+body {
+    background-image: url("image/homepage_transparent.png");
+    background-repeat: repeat;
+}
