@@ -22,9 +22,44 @@
   <meta name="twitter:description" content="Melbourne University Inline Skating Club">
   <meta name="twitter:image" content="https://muisc.github.io/o/assets/img/o.png">
   <meta name="twitter:card" content="MUISC">
+
+  <style>
+    body {
+      background-color: #0c0c0c;
+      margin:50px 0;
+      padding:0;
+      text-align:center;
+    }
+    .loader {
+      border: 16px solid rgba(0, 70, 203, 1.32);
+      border-radius: 50%;
+      border-top: 16px solid #ffffff;
+      width: 120px;
+      height: 120px;
+      -webkit-animation: spin 2s linear infinite; /* Safari */
+      animation: spin 2s linear infinite;
+    }
+
+    /* Safari */
+    @-webkit-keyframes spin {
+      0% { -webkit-transform: rotate(0deg); }
+      100% { -webkit-transform: rotate(360deg); }
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    #Content {
+      max-width: 500px;
+      margin: auto;
+      margin-top: 200px;
+    }
+  </style>
 </head>
 <body>
-
-
+<div id="Content" class="loader"> </div>
+Melbo Uni Inline Skating
 </body>
 </html>
